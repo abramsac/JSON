@@ -3,22 +3,30 @@
     {
       "year": 1,
       "name": "Jesus's Birthday",
-      "description": "Jesus was born and became a prophet for christianity."
+      "description": "Jesus was born and became a prophet for christianity.",
+      "longitude": "50.0614",
+      "latitude": "19.9383"
     },
     {
       "year": 14,
       "name": "Caesar's Death",
-      "description": "Augustus Caesar, first emperor of Rome, dies. His adopted son, stepson and son-in-law Tiberius is his successor."
+      "description": "Augustus Caesar, first emperor of Rome, dies. His adopted son, stepson and son-in-law Tiberius is his successor.",
+      "longitude": "12.5",
+      "latitude": "41.9"
     },
     {
       "year": 44,
       "name": "Power Struggle",
-      "description": "The regions of present-day Afghanistan, Pakistan and North India come under the control of the Kushans, a nomadic people forced out of northwest China by the Han Dynasty."
+      "description": "The regions of present-day Afghanistan, Pakistan and North India come under the control of the Kushans, a nomadic people forced out of northwest China by the Han Dynasty.",
+      "longitude": "41.0136",
+      "latitude": "28.9550"
     },
     {
       "year": 79,
       "name": "Mount Vesuvius Erupts",
-      "description": " Pompeii and Herculaneum destroyed by eruption of Mount Vesuvius."
+      "description": " Pompeii and Herculaneum destroyed by eruption of Mount Vesuvius.",
+      "longitude": "40.8167",
+      "latitude": "14.4333"
     }
   ]
 }
